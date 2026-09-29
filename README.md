@@ -1,7 +1,7 @@
 # proyecto_2dam
 
 Proyecto de 2 DAM con defensa en Marzo y resultado en mi contra
-
+Gestor de encargos para artistas freelance: clientes, comisiones, estados del pedido (boceto, revisión, entregado), pagos y un catálogo de servicios. Es útil de verdad, lo puedes usar tú mismo y cubre CRUD, informes y una BD relacional sin inventarte nada raro
 ## Getting Started
 
 This project is a starting point for a Flutter application.
